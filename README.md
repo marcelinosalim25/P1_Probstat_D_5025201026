@@ -4,6 +4,7 @@ Soal 1
 
 ![image](https://user-images.githubusercontent.com/90826711/162618738-b9cae06b-e247-4419-91e4-c686204c0016.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618740-910f9e98-1e1d-425f-ab64-3d787bde9440.png)
+![image](https://user-images.githubusercontent.com/90826711/162618856-2cd2df3c-1b81-4bcf-9cf2-533dda01329a.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618600-e4364c35-9a67-42a6-b7cd-b2774786d196.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618746-84ae0820-83de-4d09-82a8-28e70460e624.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618750-90b70a02-0619-4942-86a1-54b8b2f02d69.png)
