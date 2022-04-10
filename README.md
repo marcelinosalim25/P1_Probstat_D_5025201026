@@ -32,11 +32,25 @@ Soal 3
 
 Soal 4
 
+![image](https://user-images.githubusercontent.com/90826711/162618939-72dd244d-2ba5-42d8-ae2e-1aaf9247b886.png)
+
+![image](https://user-images.githubusercontent.com/90826711/162618945-0d192efc-920a-4280-b14e-a7bc28f4a5ab.png)
+
 ![image](https://user-images.githubusercontent.com/90826711/162618649-72b51286-b494-49e4-b244-26cb840f5363.png)
+![image](https://user-images.githubusercontent.com/90826711/162618953-a314a51f-a838-411b-8642-d797f65c7e6b.png)
+![image](https://user-images.githubusercontent.com/90826711/162618955-05987ab0-fb33-4243-afdd-a91f81f26be1.png)
 
 Soal 5
 
+![image](https://user-images.githubusercontent.com/90826711/162618963-c9ee2650-db01-455d-b62d-afd21a38ed5a.png)
+
+![image](https://user-images.githubusercontent.com/90826711/162618967-8fbdd3a9-0062-4814-9a0b-721f302a20f2.png)
+
+![image](https://user-images.githubusercontent.com/90826711/162618972-73baf79f-8c9f-47cf-9038-74744d30cf94.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618673-bf5acebc-d8e6-459d-a1e5-8c6293271bc8.png)
+![image](https://user-images.githubusercontent.com/90826711/162618990-72ced06c-504a-4045-89a7-d4e93d4a8c6f.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618678-7f00bdd5-dcf2-4047-ab18-204539183acc.png)
+![image](https://user-images.githubusercontent.com/90826711/162618996-53f35ba8-6118-4212-9bd7-9c4762e7e98f.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618683-4b3645e0-01db-4d3d-b899-858afb1f03aa.png)
+![image](https://user-images.githubusercontent.com/90826711/162619003-a6c733cd-15e4-4ad4-af2c-33c4619b4490.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618688-64d9c74f-baab-4af4-b4d8-4596f6fa608b.png)
