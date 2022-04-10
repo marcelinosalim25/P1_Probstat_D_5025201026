@@ -14,7 +14,9 @@ Soal 1
 Soal 2
 
 ![image](https://user-images.githubusercontent.com/90826711/162618754-bab5537d-1005-4e8c-a57f-5b2bbba5e738.png)
+
 ![image](https://user-images.githubusercontent.com/90826711/162618757-9aa23d6f-ac3d-4d10-b763-8fc137fe45e8.png)
+
 ![image](https://user-images.githubusercontent.com/90826711/162618615-f78997f0-d74a-416e-bbd9-2f1d58b60d64.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618763-f710b1ff-1117-4165-8143-9c989b702f5f.png)
 ![image](https://user-images.githubusercontent.com/90826711/162618768-2389b1f4-9908-488d-86f2-6e83eb5aef71.png)
